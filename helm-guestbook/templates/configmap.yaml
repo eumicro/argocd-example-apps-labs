@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: guestbook-config
-data:
-  message: "Will be deleted to test pruning"
